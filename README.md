@@ -1,0 +1,2 @@
+# webpack_loaders_config
+webpack配置好了一些常用的loaders，包括react，jsx
