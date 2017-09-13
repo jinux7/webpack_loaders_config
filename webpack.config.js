@@ -16,7 +16,7 @@ const config = {
 	plugins: [
 		new CleanWebpackPlugin(['dist']),
      	new HtmlWebpackPlugin({
-       	title: 'webpack learn'
+			template: './src/template.html'
     	})
    	],
 	output: {
